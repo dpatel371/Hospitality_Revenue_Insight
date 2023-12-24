@@ -1,8 +1,8 @@
 # AtliQ_Hospitality_Revenue_Insight
 - Power BI( Revenue Insight ) dashboard project for business AtliQ Grands 
 - As part of the codebasics september month resume challenge, I have worked on this analysis project.
-- Post : [https://www.linkedin.com/feed/update/urn:li:activity:7144834178696585216/](Presentation)
-- Live Dashboard :  [https://www.novypro.com/project/hospitality-revenue-insight-1](Interactive_Dashboard)
+- Post : [Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7144834178696585216/) 
+- Live Dashboard :  [Interactive_Dashboard](https://www.novypro.com/project/hospitality-revenue-insight-1)
 
 # Problem Statement
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
