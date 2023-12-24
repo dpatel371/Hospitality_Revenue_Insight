@@ -1,6 +1,7 @@
 # AtliQ_Hospitality_Revenue_Insight
 - Power BI( Revenue Insight ) dashboard project for business AtliQ Grands 
 - As part of the codebasics september month resume challenge, I have worked on this analysis project.
+- Post : [https://www.linkedin.com/feed/update/urn:li:activity:7144834178696585216/](Presentation)
 - Live Dashboard :  [https://www.novypro.com/project/hospitality-revenue-insight-1](Interactive_Dashboard)
 
 # Problem Statement
